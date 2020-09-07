@@ -9,7 +9,7 @@
 
                 <div class="col-12 mt-2 mt-lg-0 col-lg-6 order-lg-2 order-3">
                     <div class="input-group">
-                        <input type="text" class="form-control my-input-text shadow-none" placeholder="Search products...">
+                        <input type="search" class="form-control my-input-text shadow-none" placeholder="Search products...">
                         <div class="input-group-append">
                             <button class="rounded-0 btn border dropdown-toggle shadow-none" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories </button>
                             <div class="dropdown-menu">
@@ -30,7 +30,7 @@
                     <button class="btn mx-2 p-0 shadow-none"><img src="@/assets/images/buttons/HeartIcon.png" alt="" width="18px"></button>
                     <button class="btn mr-2 p-0 shadow-none"><img src="@/assets/images/buttons/CompareIcon.png" alt="" width="18px"></button>
                     <button class="btn mr-2 p-0 shadow-none"><img src="@/assets/images/buttons/BagIcon.png" alt="" width="18px"></button>
-                    <button class="btn p-0 shadow-none">$0.00</button>
+                    <button class="btn p-0 shadow-none d-none d-lg-inline-block">$0.00</button>
                 </div>
 
             </div>
