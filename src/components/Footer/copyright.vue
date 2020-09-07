@@ -27,6 +27,6 @@ export default {
 
 <style>
     .bg-copyright{
-        background: #000;
+        background: #080C24;
     }
 </style>

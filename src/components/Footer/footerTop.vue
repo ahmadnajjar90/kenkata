@@ -42,7 +42,7 @@
               <div class=" rounded bg-insta"></div>
             </div>
 
-            <div class="d-flex justify-content-between my-2">
+            <div class="d-flex justify-content-between my-3">
               <div class=" rounded bg-insta"></div>
               <div class=" rounded bg-insta-theme"></div>
               <div class=" rounded bg-insta"></div>
@@ -86,13 +86,13 @@ export default {
 
   .bg-insta{
     background-color:#e3e3e3;
-    width: 78px;
-    height: 78px;
+    width: 75px;
+    height: 75px;
   }
 
   .bg-insta-theme{
     background-color:#20D3C2;
-    width: 78px;
-    height: 78px;
+    width: 75px;
+    height: 75px;
   }
 </style>
