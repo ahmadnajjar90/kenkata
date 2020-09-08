@@ -11,7 +11,7 @@
                             <button class="btn bg-light rounded-pill theme-color py-2 px-4 font-weight-bold">SHOP NOW</button>
                         </div>
                         <div class="col-7 d-none d-md-block">
-                            <img src="@/assets/images/home-carousel.png" class="d-flex mx-auto" width="90%" alt="">
+                            <img src="@/assets/images/home-carousel.png" class="d-flex mx-auto" width="77%" alt="">
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@
                             <button class="btn bg-light rounded-pill theme-color py-2 px-4 font-weight-bold">SHOP NOW</button>
                         </div>
                         <div class="col-7 d-none d-md-block">
-                            <img src="@/assets/images/home-carousel.png" class="d-flex mx-auto" width="90%" alt="">
+                            <img src="@/assets/images/home-carousel.png" class="d-flex mx-auto" width="77%" alt="">
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                             <button class="btn bg-light rounded-pill theme-color py-2 px-4 font-weight-bold">SHOP NOW</button>
                         </div>
                         <div class="col-7 d-none d-md-block">
-                            <img src="@/assets/images/home-carousel.png" class="d-flex mx-auto" width="90%" alt="">
+                            <img src="@/assets/images/home-carousel.png" class="d-flex mx-auto" width="77%" alt="">
                         </div>
                     </div>
                 </div>
